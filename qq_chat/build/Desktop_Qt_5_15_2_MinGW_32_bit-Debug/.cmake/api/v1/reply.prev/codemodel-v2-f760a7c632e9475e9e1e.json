@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-973478865b79b8ee53d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qq_chat",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qq_chat::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qq_chat-Debug-468d095a8260f6c1d348.json",
+					"name" : "qq_chat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qq_chat_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qq_chat_autogen-Debug-240b87e3b16082b774f8.json",
+					"name" : "qq_chat_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qq_chat_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qq_chat_autogen_timestamp_deps-Debug-08b873dc5105aa9128be.json",
+					"name" : "qq_chat_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/2025Spring/QQchat/QQ_Chat/qq_chat/build/Desktop_Qt_5_15_2_MinGW_32_bit-Debug",
+		"source" : "D:/2025Spring/QQchat/QQ_Chat/qq_chat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
